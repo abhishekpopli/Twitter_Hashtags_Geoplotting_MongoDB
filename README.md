@@ -9,9 +9,6 @@ Using Twitter_locations.py, I extracted the locations and then saved that in Twi
 Different collection for Delhi and Mumbai were made and twitter-delhi, twitter-mumbai.py are Twitter stream listeners saving respective tweets in MongoDB database "twitterdb". While twitter_nostreaming.py extracts previous tweets of particluar hashtags.
 
 To be done:
-
 1.Distribution of Original Tweets vs Retweeted Tweets
-
 2.Distribution of favorite counts on Original Tweets
-
 3.Distribution of Type of Tweet i.e. Text, Image, Text+Image
